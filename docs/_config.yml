@@ -21,7 +21,7 @@
 title: Dylan Supencheck
 email: dylansupencheck (at) berkeley .edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! I'm Dylan, a soon to be Berkeley graduate
+  Welcome to my website! I'm Dylan, a soon-to-be Berkeley graduate
   studying Computer Science. I love photography, D&D, cats, and
   writing code.
 baseurl: "" # the subpath of your site, e.g. /blog
